@@ -1,4 +1,4 @@
-# Telegram бот для заказа пиццы!
+# PizzaBot - Telegram бот для заказа пиццы!
 В качестве стейт-машины используется [transitions] <br>
 Ссылка - [AwesomePizzaBot]
 
