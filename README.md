@@ -15,7 +15,7 @@ docker build -t pizzabot .
 docker run pizzabot
 ```
 
-# Тестирование
+## Тестирование
 ```bash
 pytest tests.py
 ```
